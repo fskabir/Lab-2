@@ -1,0 +1,13 @@
+Package: Lab2
+Type: Package
+Title: Plot and Analyze DRG Codes and Associated Payments 
+Version: 0.1.0
+Author: Farah Kabir
+Maintainer: Farah Kabir <fsk4001@med.cornell.edu>
+Description: The box_plot() function creates a box plot of \code{column} versus DRG codes.
+  The generated boxplot will have a black and white theme, with the x-axis labels at 90 degrees.
+  The summary_statistic() function will apply a statistic (mean, median, standard deviation) to Average Medicare Payments variable.
+License: N/A
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
